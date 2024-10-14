@@ -11,7 +11,7 @@ I am a Software Developer and Application Support Engineer with expertise in ful
 
 - 👀 I’m interested in Web Development, Machine Learning, and artificial intelligence 
 - 🌱 My Hobby is to bouldering :)
-- 📫 How to reach me: [Philip.liman@gmail.com](mailto:philip.liman15@gmail.com)
+- 📫 How to reach me: [Philip.liman15@gmail.com](mailto:philip.liman15@gmail.com)
 
 ## 🙋‍♂️ Social
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/philipliman)&nbsp;
