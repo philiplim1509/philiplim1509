@@ -15,10 +15,10 @@ I am a Software Developer and Application Support Engineer with expertise in ful
 ## Private Project :0
 To get a snippet of my personal project, I have worked on:
 - Tradebot (Scalping Strategy for S&P 500) Written in NinjaScript or ThinkScript, depend on which platform.
-- Portfolio
-- Business Website
-- Scraping functions :):):)
-- AI for the stuff I scrape :):)
+- Portfolios
+- Business Websites
+- Scraping functions :)
+- AI for the stuff I scraped :)
 
 ## 🙋‍♂️ Social
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/philipliman)&nbsp;
