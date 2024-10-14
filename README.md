@@ -8,10 +8,17 @@ I am a Software Developer and Application Support Engineer with expertise in ful
 
 - Bachelor of Science - Major in Computer Science and Statistics
 - Bachelor of Commerce - Major in Finance and Business Analytics
-
 - 👀 I’m interested in Web Development, Machine Learning, and artificial intelligence 
 - 🌱 My Hobby is to bouldering :)
 - 📫 How to reach me: [Philip.liman15@gmail.com](mailto:philip.liman15@gmail.com)
+
+## Private Project :0
+To get a snippet of my personal project, I have worked on:
+- Tradebot (Scalping Strategy for S&P 500) Written in NinjaScript or ThinkScript, depend on which platform.
+- Portfolio
+- Business Website
+- Scraping functions :):):)
+- AI for the stuff I scrape :):)
 
 ## 🙋‍♂️ Social
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/philipliman)&nbsp;
