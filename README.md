@@ -1,18 +1,8 @@
-# Hi Folks! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="35px" height="35px" />
+# Hi hI! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="35px" height="35px" />
 
-![](screencapture-reskimulud-my-id-2021-07-31-21_11_10.jpg)
+## My name is Philip
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)&nbsp;
-![Profile Viewer](https://komarev.com/ghpvc/?username=reskimulud&label=Profile%20views&color=0e75b6&style=flat)&nbsp;
-[![wakatime](https://wakatime.com/badge/user/b02a286e-3d0f-4af8-a433-7d562aaf08e9.svg)](https://wakatime.com/@reskimulud)&nbsp;
-![Metrics](https://github.com/reskimulud/reskimulud/actions/workflows/metrics.yml/badge.svg)&nbsp;
-![GitHub stars](https://img.shields.io/github/stars/reskimulud.svg?style=social)&nbsp;
-[![GitHub forks](https://img.shields.io/github/forks/reskimulud/reskimulud.svg?style=social)](https://github.com/reskimulud/reskimulud)&nbsp;
-[![GitHub: reskimulud](https://img.shields.io/github/followers/reskimulud?label=follow&style=social)](https://github.com/reskimulud)&nbsp;
-
-## I am [Reski Mulud Muchamad](https://reskimulud.my.id)
-
-A Google Certified [**Associate Android Developer**](https://bit.ly/aadreski). Someone who is interested and fascinated to develop Android apps with some experience in Android Development using Kotlin (Android Native) programming language. As a graduate of **Bangkit Academy 2022**, alumni of **Tokopedia Devcamp 2022** and former Lead in the **Google Developer Student Clubs community**.
+Im a Skilled Software Developer and Application Support Engineer with expertise in full-stack web development, network engineering, and data analysis. 
 
 ### About Me
 
@@ -32,6 +22,7 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
 - 📫 How to reach me: [reski.mulud@gmail.com](mailto:reski.mulud@gmail.com)
 
 ## 🙋‍♂️ Social
+
 
   [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://reskimulud.my.id)&nbsp;
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reskimulud)&nbsp;
