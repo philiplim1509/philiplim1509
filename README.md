@@ -15,7 +15,7 @@ I am a Software Developer and Application Support Engineer with expertise in ful
 
 ## 🙋‍♂️ Social
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/philipliman)&nbsp;
-  [![Instagram](https://img.shields.io/badge/reskimulud-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/philip_liman)&nbsp;
+  [![Instagram](https://img.shields.io/badge/PhilipLiman-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/philip_liman)&nbsp;
 
 # Tech Stack
 
